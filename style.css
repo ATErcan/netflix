@@ -67,3 +67,12 @@ section{
     width: 80%;
     margin: auto;
 }
+.textarea-input{
+    display: block;
+    color: #fff;
+    width: 80%;
+    margin: auto;
+    height: 100px;
+    padding-left: 2%;
+    padding-top: 2%;
+}
