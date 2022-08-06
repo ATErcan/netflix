@@ -106,5 +106,5 @@ section {
   color: #fff;
   border-radius: 50px;
   margin-bottom: 1rem;
-  cursor:not-allowed;
+  cursor: pointer;
 }
